@@ -1,0 +1,3 @@
+<!--<tr><td>Starts with letter</td><td><input name="s" type="text" value="A" style="width:40px;"></td><td>CB</td></tr>
+<tr><td>Ends with letter</td><td><input name="e" type="text" value="A" style="width:40px;"></td><td>CB</td></tr>-->
+<!--<tr><td>Contains letter</td><td><input id="c" type="text" value="A" style="width:40px;"></td><td>CB</td></tr>-->
